@@ -1,4 +1,4 @@
-# DHT11-with-adagruit-DHTlib
+# DHT11-with-adafruit-DHTlib
 utilizando sensor de temperatura dht11 com bibliotecas adafruit dht h
 
 bibliotecas utilizadas:
